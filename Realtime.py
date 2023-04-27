@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[4]:
-
+ 
 
 import pytesseract
 from PIL import Image
